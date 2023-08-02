@@ -1,0 +1,4 @@
+data
+.vscode
+.venv
+cifar_net.pth
